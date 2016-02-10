@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "MN40303ucmf_13_0044.png"; bbox 0 0 2190 2941; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 210 2059 469 2286">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 210 2059 469 2277">
+     <span class='ocr_line' id='line_1_1' title="bbox 210 2059 378 2138; baseline 0.019 -18"><span class='ocrx_word' id='word_1_1' title='bbox 210 2068 215 2083; x_wconf 67' lang='lat'>¹</span> <span class='ocrx_word' id='word_1_2' title='bbox 259 2059 264 2101; x_wconf 61' lang='lat'>5¹</span> <span class='ocrx_word' id='word_1_3' title='bbox 287 2063 378 2138; x_wconf 71' lang='lat' dir='ltr'>rar&#39;ent*·</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 247 2131 407 2217; baseline -0.007 -26"><span class='ocrx_word' id='word_1_4' title='bbox 247 2152 252 2177; x_wconf 65' lang='lat'>‘1</span> <span class='ocrx_word' id='word_1_5' title='bbox 268 2131 355 2199; x_wconf 73' lang='lat' dir='ltr'>aliud</span> <span class='ocrx_word' id='word_1_6' title='bbox 369 2155 407 2217; x_wconf 87' lang='lat' dir='ltr'>q</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 262 2173 469 2286; baseline -0.01 -26.93"><span class='ocrx_word' id='word_1_7' title='bbox 262 2173 357 2286; x_wconf 74' lang='lat' dir='ltr'>angelii</span> <span class='ocrx_word' id='word_1_8' title='bbox 367 2197 469 2261; x_wconf 62' lang='lat' dir='ltr'>Pafadffi</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 256 2264 466 2360">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 256 2264 466 2360">
+     <span class='ocr_line' id='line_1_4' title="bbox 256 2264 466 2360; baseline -0.014 -32"><span class='ocrx_word' id='word_1_9' title='bbox 256 2274 383 2360; x_wconf 72' lang='lat' dir='ltr'>¹[unque</span> <span class='ocrx_word' id='word_1_10' title='bbox 370 2264 466 2327; x_wconf 66' lang='lat' dir='ltr'>alutafi</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1100 2941">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1100 2941">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1100 2941; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1100 2941; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
